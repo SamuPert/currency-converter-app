@@ -17,9 +17,10 @@ The Currency Converter application will be deployed on AWS with a CI/CD pipeline
 
 ---
 
-## Contributing and support
+## Contribute! 
 Your help and feedback is always welcome!
 
-If you find an issue let me know by directly opening an issue here in the repo.
+If you'd like to contribute to the project, please submit a pull request or contact me for more information.
 
-The Currency Converter application was created by [SamuPert](https://github.com/SamuPert). If you'd like to contribute to the project, please submit a pull request or contact me for more information.
+## Support
+Feel free to open an issue for bugs and feature requests here in the repo.
