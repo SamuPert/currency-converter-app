@@ -2,23 +2,20 @@
 The Currency Converter is an application that allows users to convert between different currencies using current exchange rates. The application is built with Angular as a frontend and will be deployed on AWS.
 
 ## Features
-- Convert between different currencies using current exchange rates
-- Input validation to ensure accurate currency conversion
-- Displays the converted amount and exchange rate
-- Supports multiple currencies
-- Automatically retrieves current exchange rates from an API
+- Convert between different currencies using current exchange rates.
+- Input validation to ensure accurate currency conversion.
+- Displays the converted amount and exchange rate.
+- Supports multiple currencies.
+- Automatically retrieves daily exchange rates from an API.
 
 ## Cloud Architecture
 The architecture of the Currency Converter application is described in the [CloudArchitecture.md](CloudArchitecture.md) document.
 ![Cloud architecture](./resources/currency-converter-cloud-architecture.svg)
 
 ## Deployment
-The Currency Converter application will be deployed on AWS with a CI/CD pipeline.
+The Currency Converter application will be deployed on AWS with a CI/CD pipeline, which will be exposed in the [Deployment.md](Deployment.md) document.
 
-<!--
-## Getting Started
-TODO: Explain the folder structure
--->
+---
 
 ## Contributing and support
 Your help and feedback is always welcome!
