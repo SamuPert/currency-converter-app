@@ -8,8 +8,9 @@ The Currency Converter is an application that allows users to convert between di
 - Supports multiple currencies
 - Automatically retrieves current exchange rates from an API
 
-## Architecture
-The architecture of the Currency Converter application will be described in the [Architecture.md](Architecture.md) document.
+## Cloud Architecture
+The architecture of the Currency Converter application is described in the [CloudArchitecture.md](CloudArchitecture.md) document.
+![Cloud architecture](./resources/currency-converter-cloud-architecture.svg)
 
 ## Deployment
 The Currency Converter application will be deployed on AWS with a CI/CD pipeline.
